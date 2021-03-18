@@ -19,5 +19,10 @@ public class LoginDaoImpl implements LoginDao {
 		System.out.println(" ich bean methoded");
 
 	}
+	@Override
+	public void gitoMan() {
+		System.out.println(" ich bean gitoded");
+
+	}
 
 }

@@ -5,6 +5,7 @@ public interface LoginDao {
 	public void daoCreation();
 	public void daoAcess();
 	public void methodMan();
+	public void gitoMan();
 
 	
 

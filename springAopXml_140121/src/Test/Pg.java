@@ -15,9 +15,10 @@ public class Pg {
 			MaDecoration monService = (MaDecoration) context.getBean("decore");
 
 			LoginDao t = (LoginDao) context.getBean("leBeanLogin");
-			t.daoAcess();
+			/*t.daoAcess();
 			t.daoCreation();
-			t.methodMan();
+			t.methodMan();*/
+			t.gitoMan();
 			
 
 			}
